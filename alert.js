@@ -1,1 +1,4 @@
-alert('hello');
+function hello() {
+  var qwe = 'Hi hi';
+  alert(qwe);
+}
